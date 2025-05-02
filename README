@@ -1,0 +1,56 @@
+
+# Furaha Nursery and Preschool Website
+
+![Furaha Logo](smiling.png)
+
+A bright, welcoming website for Furaha Nursery and Preschool showcasing our programs, facilities, and educational philosophy.
+
+## Screenshots
+
+### Landing Page
+![Landing Page](screenshots/landing.png)
+
+### About Us
+![About Section](screenshots/about.png)
+
+### Why Choose Us
+![Why Us Section](screenshots/whyus.png)
+
+### Location Map
+![Map Section](screenshots/maps.png)
+
+### More Information
+![More Section](screenshots/more.png)
+
+## Features
+
+- **Responsive Design**: Works on all devices (desktop, tablet, mobile)
+- **Interactive Navigation**: Easy-to-use menu system
+- **Visual Galleries**: Showcasing our facilities and happy students
+- **Contact Information**: With map integration for easy location
+- **Social Media Links**: Connect with us on various platforms
+
+## Sections
+
+1. **Home**: Welcome message and school introduction
+2. **About**: Our educational philosophy and mission
+3. **Courses**: Programs and curriculum overview
+4. **Contacts**: Location, map, and contact details
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (for interactive elements)
+- Google Maps API
+- Boxicons (for menu icon)
+
+## Installation
+
+No installation required - this is a static website ready to deploy to any web hosting service.
+
+## How to Use
+
+1. Clone the repository:
+```bash
+git clone https://github.com/jodawa123/Calorie_Count.git

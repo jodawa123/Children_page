@@ -1,6 +1,6 @@
 # Furaha Nursery and Preschool Website
 
-![Furaha Logo](smiling.png)
+<img src="smiling.png" width="100" alt="Furaha Nursery Logo">
 
 A bright, welcoming website for Furaha Nursery and Preschool showcasing our programs, facilities, and educational philosophy.
 
